@@ -1,0 +1,8 @@
+﻿  Запуск удаленной сборки.
+  Компиляция исходных файлов:
+  Lab2.cpp
+E:\projects\github\programming-C\Vasyliev\Lab2\Lab2\Lab2.cpp(11,21): error : ‘filesystem’ is not a namespace-name; did you mean ‘system’?
+E:\projects\github\programming-C\Vasyliev\Lab2\Lab2\Lab2.cpp(36,30): error : ‘fs’ has not been declared
+E:\projects\github\programming-C\Vasyliev\Lab2\Lab2\Lab2.cpp(107,24): warning : conversion from ‘int’ to ‘char’ may change value [-Wconversion]
+E:\projects\github\programming-C\Vasyliev\Lab2\Lab2\Lab2.cpp(107,24): warning :   107 |         word += tolower(c);
+E:\projects\github\programming-C\Vasyliev\Lab2\Lab2\Lab2.cpp(107,24): warning :       |                 ~~~~~~~^~~
